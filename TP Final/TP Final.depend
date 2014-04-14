@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1386284419 source:/home/martin/TPI/Estructura de datos/TP Final/TP Final/main.cpp
+	<iostream>
+	"types.h"
+	"DoubleLinkedList.h"
+	"hash.h"
+	"lru.h"
+
+1385927943 /home/martin/TPI/Estructura de datos/TP Final/TP Final/types.h
+	"types.cpp"
+
+1385830291 /home/martin/TPI/Estructura de datos/TP Final/TP Final/types.cpp
+	<iostream>
+	"types.h"
+
+1385991127 /home/martin/TPI/Estructura de datos/TP Final/TP Final/DoubleLinkedList.h
+	<iostream>
+
+1385928342 /home/martin/TPI/Estructura de datos/TP Final/TP Final/hash.h
+	<iostream>
+	<iostream>
+	"DoubleLinkedList.h"
+	"hash.cpp"
+
+1386285021 /home/martin/TPI/Estructura de datos/TP Final/TP Final/hash.cpp
+	"hash.h"
+	<iostream>
+
+1385928640 /home/martin/TPI/Estructura de datos/TP Final/TP Final/lru.h
+	"hash.h"
+	"DoubleLinkedList.h"
+	"types.h"
+	<fstream>
+	"lru.cpp"
+
+1386284374 /home/martin/TPI/Estructura de datos/TP Final/TP Final/lru.cpp
+	"lru.h"
+
